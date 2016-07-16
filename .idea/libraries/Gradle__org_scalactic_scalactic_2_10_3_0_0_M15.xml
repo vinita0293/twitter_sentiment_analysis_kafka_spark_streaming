@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalactic:scalactic_2.10:3.0.0-M15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.10/3.0.0-M15/dd0641dcf54cff44570738b12ded4b4ed18412ad/scalactic_2.10-3.0.0-M15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.10/3.0.0-M15/e5a32a04264def71c2f8bab918fcd65bc4db8e5/scalactic_2.10-3.0.0-M15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
